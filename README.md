@@ -1,6 +1,6 @@
 # RO_2024
 
-A mapping excercise combining a geoJson and CSV with results from the 2024 Romanian Presidential election.
+A mapping excercise combining a geoJson layer and a CSV with results from the 2024 Romanian Presidential election.
 
 The map shows the vote for Călin Georgescu as a percentage of the total vote by county (judet).
 
